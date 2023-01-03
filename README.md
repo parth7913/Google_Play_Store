@@ -1,4 +1,4 @@
-# play_store
+# Google_play_store
 
 A new Flutter project.
 
